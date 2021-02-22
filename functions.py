@@ -3,3 +3,7 @@ def addnum(a,b):
 
 def multiplynum(a,b):
 	return a * b;
+
+def subnum(a,b):
+	return a - b;
+
