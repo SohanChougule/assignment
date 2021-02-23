@@ -6,3 +6,6 @@ def subnum(a,b):
 	if (c<0):
 		c = -c
 	return c
+
+def dividenum(a,b):
+	return a/b;
